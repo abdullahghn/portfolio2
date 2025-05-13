@@ -1,10 +1,10 @@
 import React from 'react';
 import java from "/java.png";
-import python from "/public/python.webp";
-import mongoDb from "/public/mongoDb.jpg";
-import express from "/public/express.png";
-import reactjs from "/public/reactjs.png";
-import nodejs from "/public/node.png";
+import python from "/python.webp";
+import mongoDb from "/mongodb.jpg";
+import express from "/express.png";
+import reactjs from "/reactjs.png";
+import nodejs from "/node.png";
 
 const Portfolio = () => {
     const cardItem = [
